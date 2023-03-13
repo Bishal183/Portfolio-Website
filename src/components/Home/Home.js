@@ -4,6 +4,12 @@ const Home = () => {
     return (
         <div data-theme="dark">
             <h2>HOme</h2>
+            <h2>HOme</h2>
+            <h2>HOme</h2>
+            <h2>HOme</h2>
+            <h2>HOme</h2>
+            <h2>HOme</h2>
+            <h2>HOme</h2>
         </div>
     );
 };
